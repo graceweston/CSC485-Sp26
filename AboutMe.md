@@ -1,7 +1,7 @@
 # About Me (You)
 
 ## Name:
-My name is <fill in your name here>. But I like to go by <my cool nickname>.
+My name is Nora. But I like to go by <my cool nickname>.
 
 ## Major/Minors:
 
