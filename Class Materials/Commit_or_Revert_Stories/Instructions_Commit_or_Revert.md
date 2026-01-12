@@ -23,11 +23,7 @@ The goals are to:
 ---
 
 ## The Files
-You will work with **one file only**:
-
-```
-game_doc.md
-```
+You will work with **one file only**, your groups chosen story.
 
 This file contains an unfinished story with section headings.
 
