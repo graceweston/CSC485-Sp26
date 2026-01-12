@@ -11,8 +11,8 @@ My name is Nora Cauley. But I like to go by Nora.
 
 ## Favorite Food:
 
-What is your favorite food? Tacos
-What is your favorite cuisine? Mexican
+- What is your favorite food? Tacos
+- What is your favorite cuisine? Mexican
 
 ## Hobbies:
 
