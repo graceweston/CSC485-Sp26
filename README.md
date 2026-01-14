@@ -9,3 +9,5 @@ This repository contains course materials, examples, and student contributions.
 
 ## Why GitHub?
 GitHub keeps a complete history of changes so nothing is ever lost.
+
+ARE YOU HAVING FUN YET?
