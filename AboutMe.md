@@ -1,24 +1,30 @@
 # About Me (You)
 
 ## Name:
-My name is <fill in your name here>. But I like to go by <my cool nickname>.
+My name is <Kevin>. But I like to go by <Kevin>.
 
 ## Major/Minors:
 
 <List out your majors and minors>
-- Math
+- Computer Science
+- Data Science
 
 ## Favorite Food:
 
-What is your favorite food?
-What is your favorite cuisine?
+My favorite food is steak but my favorite cuisine is Mexican food
 
 ## Hobbies:
 
-<list a few hobbies>
+I like to,
+- play rugby
+- snowboard
+- listen to music
+- basketball
 
 ## What you want to do when you graduate?
 
-<this is a big question you don't need to know what you want to do. you're still young don't worry>
+I plan to go work as an analyst in insurance
 
 ## What's your favorite vacation spot?
+
+Scotland 
