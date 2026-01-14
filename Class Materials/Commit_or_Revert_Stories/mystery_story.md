@@ -5,6 +5,8 @@ Late one night, something unusual was found in a place everyone thought they kne
 
 ## The Witnesses
 Several people noticed strange events, but none reported them immediately.
+Jack
+Hame
 
 ## Clues
 Objects, notes, and minor inconsistencies began to appear. Some were real, some misleading.
