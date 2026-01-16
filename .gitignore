@@ -75,6 +75,42 @@ build/
 *.tar.gz
 *.tmp
 
+
+############################
+# R Studio Stuff
+############################
+
+# R session history and data
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Workspace & temp files
+*.swp
+*.bak
+*.tmp
+*~
+
+# R CMD check
+*.Rcheck/
+
+# Caches
+*_cache/
+.cache/
+
+# Figures
+figures/
+plots/
+
+
+
+
+
+
 ###############################################################################
 # Github generated:
 ###############################################################################
