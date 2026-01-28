@@ -322,3 +322,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Temporary files
+*.Rtmp
+
+# Knitr / R Markdown cache
+*_cache/
+*_files/
+
+# OS junk
+.DS_Store
+Thumbs.db
