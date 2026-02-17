@@ -56,14 +56,17 @@ NEXT WEEK (2/2)
 - can we break up the data by season so it's not so long....?
 - fix LA Clippers and Lakers [X]
 
-NEXT WEEK (2/9)
-- calculate home win rates listed above (by factor: overall, attendance, distance, time zone, back to back games)
-- run statistical tests
+LAST WEEK (2/9)
+- calculate home win rates listed above (by factor: overall, attendance, distance, time zone, back to back games) [X]
+- visuals [X]
+
+THIS WEEK (2/17)
+- run statistical tests 
 -    log reg?
 -    random tree forest?
 - find what are statistically significant factors
-- visuals? 
--
+- stratify the graphs by the team to see if it just matters if they are good or bad
+  (be weary about attendance)
 
 
 Building/training models
